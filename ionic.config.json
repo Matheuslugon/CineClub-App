@@ -1,0 +1,7 @@
+{
+  "name": "cine-club",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
