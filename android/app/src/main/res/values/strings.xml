@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cine-club</string>
+    <string name="title_activity_main">cine-club</string>
+    <string name="package_name">cine.club</string>
+    <string name="custom_url_scheme">cine.club</string>
+</resources>
