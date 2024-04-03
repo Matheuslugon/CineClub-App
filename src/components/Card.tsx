@@ -13,10 +13,10 @@ const Card: FC<CardProps> = ({title, description, image}) => {
       <img alt="Silhouette of mountains" src={image} />
       <IonCardHeader>
         <IonCardTitle>{title}</IonCardTitle>
-        <IonCardSubtitle>{description}</IonCardSubtitle>
+        <IonCardSubtitle>Outro texto</IonCardSubtitle>
       </IonCardHeader>
   
-      <IonCardContent>Here's a small text description for the card content. Nothing more, nothing less.</IonCardContent>
+      <IonCardContent>{description}</IonCardContent>
     </IonCard>
     )
    
